@@ -1,6 +1,7 @@
 [{
   "identifier": "B_1_1_7",
   "mutation_name": "B.1.1.7",
+  "mutation_synonyms": ["Variant of Concern 202012/01 (VOC-202012/01)", "20B/501Y.V1"],
   "type": "lineage",
   "url": "https://andersen-lab.github.io/hCoV19-sitrep/b117_current_report.html",
   "name": "B.1.1.7 lineage prevalence",
