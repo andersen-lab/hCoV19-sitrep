@@ -35,9 +35,15 @@
     },
     {
       "gene": "S",
+      "mutation_type": "substitution",
+      "ref_codon": "AAT",
+      "alt_codon": ["TAT", "TAC"],
       "ref_aa": "N",
-      "codon_num": 501,
+      "pos_nuc": 23062,
+      "pos_aa": 501,
       "alt_aa": "Y",
+      "is_synonymous": false,
+      "nuc_map_coords": null,
       "aa_map_coords": 7096
     },
     {
