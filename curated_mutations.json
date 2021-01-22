@@ -1,0 +1,170 @@
+[{
+  "identifier": "B_1_1_7",
+  "mutation_name": "B.1.1.7",
+  "mutation_synonyms": ["Variant of Concern 202012/01 (VOC-202012/01)", "20B/501Y.V1"],
+  "type": "lineage",
+  "url": "https://andersen-lab.github.io/hCoV19-sitrep/b117_current_report.html",
+  "name": "B.1.1.7 lineage prevalence",
+  "description": "Prevalence of lineage B.1.1.7 over time.",
+  "journalName": "outbreak.info",
+  "datePublished": "2021-01-19",
+  "publicationType": "Report",
+  "author": [{
+    "@type": "Organization",
+    "name": "Kristian Andersen lab"
+  }],
+  "mutations": [{
+      "gene": "ORF1ab",
+      "ref_aa": "T",
+      "alt_aa": "I",
+      "codon_num": 1001,
+      "aa_map_coords": 0
+    },
+    {
+      "gene": "ORF1ab",
+      "ref_aa": "I",
+      "codon_num": 2230,
+      "alt_aa": "T",
+      "aa_map_coords": 0
+    },
+    {
+      "gene": "ORF1ab",
+      "ref_aa": "A",
+      "codon_num": 1708,
+      "alt_aa": "D",
+      "aa_map_coords": 0
+    },
+    {
+      "gene": "S",
+      "mutation_type": "substitution",
+      "ref_codon": "AAT",
+      "alt_codon": ["TAT", "TAC"],
+      "ref_aa": "N",
+      "pos_nuc": 23062,
+      "pos_aa": 501,
+      "alt_aa": "Y",
+      "is_synonymous": false,
+      "nuc_map_coords": null,
+      "aa_map_coords": 7096
+    },
+    {
+      "gene": "S",
+      "ref_aa": "A",
+      "codon_num": 570,
+      "alt_aa": "D",
+      "aa_map_coords": 7096
+    },
+    {
+      "gene": "S",
+      "ref_aa": "D",
+      "codon_num": 614,
+      "alt_aa": "G",
+      "aa_map_coords": 7096
+    },
+    {
+      "gene": "S",
+      "ref_aa": "P",
+      "codon_num": 681,
+      "alt_aa": "H",
+      "aa_map_coords": 7096
+    },
+    {
+      "gene": "S",
+      "ref_aa": "T",
+      "codon_num": 716,
+      "alt_aa": "I",
+      "aa_map_coords": 7096
+    },
+    {
+      "gene": "S",
+      "ref_aa": "S",
+      "codon_num": 982,
+      "alt_aa": "A",
+      "aa_map_coords": 7096
+    },
+    {
+      "gene": "S",
+      "ref_aa": "D",
+      "codon_num": 1118,
+      "alt_aa": "H",
+      "aa_map_coords": 7096
+    },
+    {
+      "gene": "N",
+      "ref_aa": "D",
+      "codon_num": 3,
+      "alt_aa": "L",
+      "aa_map_coords": 9287
+    },
+    {
+      "gene": "N",
+      "ref_aa": "S",
+      "codon_num": 235,
+      "alt_aa": "F",
+      "aa_map_coords": 9287
+    },
+    {
+      "gene": "ORF8",
+      "ref_aa": "R",
+      "codon_num": 52,
+      "alt_aa": "I",
+      "aa_map_coords": 9166
+    },
+    {
+      "gene": "ORF8",
+      "ref_aa": "Q",
+      "codon_num": 27,
+      "alt_aa": "_",
+      "aa_map_coords": 9166
+    },
+    {
+      "gene": "ORF8",
+      "ref_aa": "Y",
+      "codon_num": 73,
+      "alt_aa": "C",
+      "aa_map_coords": 9166
+    },
+    {
+      "gene": "S",
+      "mutation_type": "deletion",
+      "ref_codon": "",
+      "alt_codon": null,
+      "ref_aa": "",
+      "pos_nuc": null,
+      "pos_aa": 69,
+      "alt_aa": null,
+      "is_synonymous": false,
+      "nuc_map_coords": null,
+      "aa_map_coords": 7096,
+      "length": 1
+    },
+    {
+      "gene": "S",
+      "mutation_type": "deletion",
+      "ref_codon": "",
+      "alt_codon": null,
+      "ref_aa": "",
+      "pos_nuc": null,
+      "pos_aa": 70,
+      "alt_aa": null,
+      "is_synonymous": false,
+      "nuc_map_coords": null,
+      "aa_map_coords": 7096,
+      "length": 1
+    },
+    {
+      "gene": "S",
+      "mutation_type": "deletion",
+      "ref_codon": "",
+      "alt_codon": null,
+      "ref_aa": "",
+      "pos_nuc": null,
+      "pos_aa": 144,
+      "alt_aa": null,
+      "is_synonymous": false,
+      "nuc_map_coords": null,
+      "aa_map_coords": 7096,
+      "length": 1
+    }
+  ]
+}]
