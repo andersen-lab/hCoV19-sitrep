@@ -122,6 +122,48 @@
       "codon_num": 73,
       "alt_aa": "C",
       "aa_map_coords": 9166
+    },
+    {
+      "gene": "S",
+      "mutation_type": "deletion",
+      "ref_codon": "",
+      "alt_codon": null,
+      "ref_aa": "",
+      "pos_nuc": null,
+      "pos_aa": 69,
+      "alt_aa": null,
+      "is_synonymous": false,
+      "nuc_map_coords": null,
+      "aa_map_coords": 7096,
+      "length": 1
+    },
+    {
+      "gene": "S",
+      "mutation_type": "deletion",
+      "ref_codon": "",
+      "alt_codon": null,
+      "ref_aa": "",
+      "pos_nuc": null,
+      "pos_aa": 70,
+      "alt_aa": null,
+      "is_synonymous": false,
+      "nuc_map_coords": null,
+      "aa_map_coords": 7096,
+      "length": 1
+    },
+    {
+      "gene": "S",
+      "mutation_type": "deletion",
+      "ref_codon": "",
+      "alt_codon": null,
+      "ref_aa": "",
+      "pos_nuc": null,
+      "pos_aa": 144,
+      "alt_aa": null,
+      "is_synonymous": false,
+      "nuc_map_coords": null,
+      "aa_map_coords": 7096,
+      "length": 1
     }
   ]
 }]
