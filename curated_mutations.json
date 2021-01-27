@@ -17,7 +17,207 @@
     "author": [{
       "@type": "Organization",
       "name": "Outbreak.info"
-    }]
+    }],
+    "mutations": [
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "N:P80R",
+        "gene": "N",
+        "ref_aa": "P",
+        "codon_num": 80,
+        "alt_aa": "R"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "ORF14:V49L",
+        "gene": "ORF14",
+        "ref_aa": "V",
+        "codon_num": 49,
+        "alt_aa": "L"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "ORF9:Q77E",
+        "gene": "ORF9",
+        "ref_aa": "Q",
+        "codon_num": 77,
+        "alt_aa": "E"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "ORF8:E92K",
+        "gene": "ORF8",
+        "ref_aa": "E",
+        "codon_num": 92,
+        "alt_aa": "K"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "ORF3a:C174G",
+        "gene": "ORF3a",
+        "ref_aa": "C",
+        "codon_num": 174,
+        "alt_aa": "G"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "S:L18F",
+        "gene": "S",
+        "ref_aa": "L",
+        "codon_num": 18,
+        "alt_aa": "F"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "S:T20N",
+        "gene": "S",
+        "ref_aa": "T",
+        "codon_num": 20,
+        "alt_aa": "N"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "S:P26S",
+        "gene": "S",
+        "ref_aa": "P",
+        "codon_num": 26,
+        "alt_aa": "S"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "S:D138Y",
+        "gene": "S",
+        "ref_aa": "D",
+        "codon_num": 138,
+        "alt_aa": "Y"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "S:R190S",
+        "gene": "S",
+        "ref_aa": "R",
+        "codon_num": 190,
+        "alt_aa": "S"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "S:K417T",
+        "gene": "S",
+        "ref_aa": "K",
+        "codon_num": 417,
+        "alt_aa": "T"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "S:E484K",
+        "gene": "S",
+        "ref_aa": "E",
+        "codon_num": 484,
+        "alt_aa": "K"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "S:N501Y",
+        "gene": "S",
+        "ref_aa": "N",
+        "codon_num": 501,
+        "alt_aa": "Y"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "S:D614G",
+        "gene": "S",
+        "ref_aa": "D",
+        "codon_num": 614,
+        "alt_aa": "G"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "S:H655Y",
+        "gene": "S",
+        "ref_aa": "H",
+        "codon_num": 655,
+        "alt_aa": "Y"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "S:T1027I",
+        "gene": "S",
+        "ref_aa": "T",
+        "codon_num": 1027,
+        "alt_aa": "I"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "ORF1ab:E5662D",
+        "gene": "ORF1ab",
+        "ref_aa": "E",
+        "codon_num": 5662,
+        "alt_aa": "D"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "ORF1ab:K1795Q",
+        "gene": "ORF1ab",
+        "ref_aa": "K",
+        "codon_num": 1795,
+        "alt_aa": "Q"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "ORF1ab:S1188L",
+        "gene": "ORF1ab",
+        "ref_aa": "S",
+        "codon_num": 1188,
+        "alt_aa": "L"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "ORF1ab:I760T",
+        "gene": "ORF1ab",
+        "ref_aa": "I",
+        "codon_num": 760,
+        "alt_aa": "T"
+      },
+      {
+        "mutation_type": "deletion",
+        "is_synonymous": false,
+        "mutation": "ORF1ab:del3675–3677",
+        "gene": "ORF1ab",
+        "ref_aa": "SGF",
+        "codon_num": [3675,3676,3677],
+        "alt_aa": null
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "ORF1ab:F681L",
+        "gene": "ORF1ab",
+        "ref_aa": "F681L",
+        "codon_num": F681L,
+        "alt_aa": "L"
+      }
+    ]
   },
   {
     "identifier": "S-N501Y",
