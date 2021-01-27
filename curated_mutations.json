@@ -392,11 +392,11 @@
       {
         "mutation_type": "substitution",
         "is_synonymous": false,
-        "mutation": "S:L452R",
+        "mutation": "S:P681H",
         "gene": "S",
-        "ref_aa": "L",
-        "codon_num": 452,
-        "alt_aa": "R"
+        "ref_aa": "P",
+        "codon_num": 681,
+        "alt_aa": "H"
       }
     ]
   },
@@ -413,7 +413,18 @@
     "author": [{
       "@type": "Organization",
       "name": "Outbreak.info"
-    }]
+    }],
+    "mutations": [
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "S:E484K",
+        "gene": "S",
+        "ref_aa": "E",
+        "codon_num": 484,
+        "alt_aa": "K"
+      }
+    ]
   },
   {
     "identifier": "B-1-351",
