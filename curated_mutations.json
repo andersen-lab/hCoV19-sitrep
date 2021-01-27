@@ -18,8 +18,7 @@
       "@type": "Organization",
       "name": "Outbreak.info"
     }],
-    "mutations": [
-      {
+    "mutations": [{
         "mutation_type": "substitution",
         "is_synonymous": false,
         "mutation": "N:P80R",
@@ -205,7 +204,7 @@
         "mutation": "ORF1ab:del3675–3677",
         "gene": "ORF1ab",
         "ref_aa": "SGF",
-        "codon_num": [3675,3676,3677],
+        "codon_num": [3675, 3676, 3677],
         "alt_aa": null
       },
       {
@@ -213,8 +212,8 @@
         "is_synonymous": false,
         "mutation": "ORF1ab:F681L",
         "gene": "ORF1ab",
-        "ref_aa": "F681L",
-        "codon_num": F681L,
+        "ref_aa": "F",
+        "codon_num": 681,
         "alt_aa": "L"
       }
     ]
@@ -232,7 +231,18 @@
     "author": [{
       "@type": "Organization",
       "name": "Outbreak.info"
-    }]
+    }],
+    "mutations": [
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "S:N501Y",
+        "gene": "S",
+        "ref_aa": "N",
+        "codon_num": 501,
+        "alt_aa": "Y"
+      }
+    ]
   },
   {
     "identifier": "S-W152C",
@@ -247,7 +257,18 @@
     "author": [{
       "@type": "Organization",
       "name": "Outbreak.info"
-    }]
+    }],
+    "mutations": [
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "S:W152C",
+        "gene": "S",
+        "ref_aa": "W",
+        "codon_num": 152,
+        "alt_aa": "C"
+      }
+    ]
   },
   {
     "identifier": "S-S13I",
@@ -262,7 +283,18 @@
     "author": [{
       "@type": "Organization",
       "name": "Outbreak.info"
-    }]
+    }],
+    "mutations": [
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "S:S13I",
+        "gene": "S",
+        "ref_aa": "S",
+        "codon_num": 13,
+        "alt_aa": "I"
+      }
+    ]
   },
   {
     "identifier": "ORF1b-D1183Y",
@@ -277,7 +309,18 @@
     "author": [{
       "@type": "Organization",
       "name": "Outbreak.info"
-    }]
+    }],
+    "mutations": [
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "ORF1b:D1183Y",
+        "gene": "ORF1b",
+        "ref_aa": "D",
+        "codon_num": 1183,
+        "alt_aa": "Y"
+      }
+    ]
   },
   {
     "identifier": "ORF1a-I4205V",
@@ -292,7 +335,18 @@
     "author": [{
       "@type": "Organization",
       "name": "Outbreak.info"
-    }]
+    }],
+    "mutations": [
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "ORF1a:I4205V",
+        "gene": "ORF1a",
+        "ref_aa": "I",
+        "codon_num": 4205,
+        "alt_aa": "V"
+      }
+    ]
   },
   {
     "identifier": "S-L452R",
@@ -307,7 +361,18 @@
     "author": [{
       "@type": "Organization",
       "name": "Outbreak.info"
-    }]
+    }],
+    "mutations": [
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "S:L452R",
+        "gene": "S",
+        "ref_aa": "L",
+        "codon_num": 452,
+        "alt_aa": "R"
+      }
+    ]
   },
   {
     "identifier": "S-P681H",
@@ -322,7 +387,18 @@
     "author": [{
       "@type": "Organization",
       "name": "Outbreak.info"
-    }]
+    }],
+    "mutations": [
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "S:L452R",
+        "gene": "S",
+        "ref_aa": "L",
+        "codon_num": 452,
+        "alt_aa": "R"
+      }
+    ]
   },
   {
     "identifier": "S-E484K",
@@ -358,8 +434,7 @@
       "@type": "Organization",
       "name": "Outbreak.info"
     }],
-    "mutations": [
-      {
+    "mutations": [{
         "mutation_type": "substitution",
         "is_synonymous": false,
         "mutation": "ORF1ab:K1655N",
