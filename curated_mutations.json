@@ -157,7 +157,81 @@
     "author": [{
       "@type": "Organization",
       "name": "Outbreak.info"
-    }]
+    }],
+    "mutations": [
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "ORF1ab:K1655N",
+        "gene": "ORF1ab",
+        "ref_aa": "K",
+        "codon_num": 1655,
+        "alt_aa": "N"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "E:P71L",
+        "gene": "E",
+        "ref_aa": "P",
+        "codon_num": 71,
+        "alt_aa": "L"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "N:T205I",
+        "gene": "N",
+        "ref_aa": "T",
+        "codon_num": 205,
+        "alt_aa": "I"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "S:K417N",
+        "gene": "S",
+        "ref_aa": "K",
+        "codon_num": 417,
+        "alt_aa": "N"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "S:E484K",
+        "gene": "S",
+        "ref_aa": "E",
+        "codon_num": 484,
+        "alt_aa": "K"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "S:N501Y",
+        "gene": "S",
+        "ref_aa": "N",
+        "codon_num": 501,
+        "alt_aa": "Y"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "S:D614G",
+        "gene": "S",
+        "ref_aa": "D",
+        "codon_num": 614,
+        "alt_aa": "G"
+      },
+      {
+        "mutation_type": "substitution",
+        "is_synonymous": false,
+        "mutation": "S:A701V",
+        "gene": "S",
+        "ref_aa": "A",
+        "codon_num": 701,
+        "alt_aa": "V"
+      }
+    ]
   },
   {
     "identifier": "B-1-429",
