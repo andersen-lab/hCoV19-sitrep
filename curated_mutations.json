@@ -35,6 +35,66 @@
     }]
   },
   {
+    "identifier": "S-W152C",
+    "mutation_name": "S:W152C",
+    "reportType": "mutation",
+    "url": "https://andersen-lab.github.io/hCoV19-sitrep/s_w152c_current_report.html",
+    "name": "",
+    "description": "",
+    "journalName": "outbreak.info",
+    "datePublished": "2021-01-19",
+    "publicationType": "Report",
+    "author": [{
+      "@type": "Organization",
+      "name": "Outbreak.info"
+    }]
+  },
+  {
+    "identifier": "S-S13I",
+    "mutation_name": "S:S13I",
+    "reportType": "mutation",
+    "url": "https://andersen-lab.github.io/hCoV19-sitrep/s_s13i_current_report.html",
+    "name": "",
+    "description": "",
+    "journalName": "outbreak.info",
+    "datePublished": "2021-01-19",
+    "publicationType": "Report",
+    "author": [{
+      "@type": "Organization",
+      "name": "Outbreak.info"
+    }]
+  },
+  {
+    "identifier": "ORF1b-D1183Y",
+    "mutation_name": "ORF1b:D1183Y",
+    "reportType": "mutation",
+    "url": "https://andersen-lab.github.io/hCoV19-sitrep/orf1b_d1183y_current_report.html",
+    "name": "",
+    "description": "",
+    "journalName": "outbreak.info",
+    "datePublished": "2021-01-19",
+    "publicationType": "Report",
+    "author": [{
+      "@type": "Organization",
+      "name": "Outbreak.info"
+    }]
+  },
+  {
+    "identifier": "ORF1a-I4205V",
+    "mutation_name": "ORF1a:I4205V",
+    "reportType": "mutation",
+    "url": "https://andersen-lab.github.io/hCoV19-sitrep/orf1a_i4205v_current_report.html",
+    "name": "",
+    "description": "",
+    "journalName": "outbreak.info",
+    "datePublished": "2021-01-19",
+    "publicationType": "Report",
+    "author": [{
+      "@type": "Organization",
+      "name": "Outbreak.info"
+    }]
+  },
+  {
     "identifier": "S-L452R",
     "mutation_name": "S:L452R",
     "reportType": "mutation",
