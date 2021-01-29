@@ -11,8 +11,10 @@ Mutations
 * [S:W152C](https://andersen-lab.github.io/hCoV19-sitrep/s_w152c_current_report.html)
 * [S:S13I](https://andersen-lab.github.io/hCoV19-sitrep/s_s13i_current_report.html)
 * [ORF1b:D1183Y](https://andersen-lab.github.io/hCoV19-sitrep/orf1b_d1183y_current_report.html)
-* [ORF1a:I4205V](https://andersen-lab.github.io/hCoV19-sitrep/orf1a_i4205v_current_report.html)
 * [CAVUI1](https://andersen-lab.github.io/hCoV19-sitrep/cavui1_current_report.html)
+* [S:N501Y](https://andersen-lab.github.io/hCoV19-sitrep/s_n501y_current_report.html)
+* [S:P681H](https://andersen-lab.github.io/hCoV19-sitrep/s_p681h_current_report.html)
+* [S:E484K](https://andersen-lab.github.io/hCoV19-sitrep/s_e484k_current_report.html)
 
 You can see older reports in the [archive](https://github.com/andersen-lab/hCoV19-sitrep/tree/master/archive).
 
