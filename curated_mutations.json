@@ -198,7 +198,8 @@
         "pos": 11288,
         "ref_aa": "S",
         "codon_num": 3675,
-        "alt_aa": "NA"
+        "alt_aa": "NA",
+        "change_length_nt":9
       },
       {
         "type": "substitution",
