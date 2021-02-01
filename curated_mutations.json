@@ -31,15 +31,6 @@
       {
         "mutation_type": "substitution",
         "is_synonymous": false,
-        "mutation": "ORF14:V49L",
-        "gene": "ORF14",
-        "ref_aa": "V",
-        "codon_num": 49,
-        "alt_aa": "L"
-      },
-      {
-        "mutation_type": "substitution",
-        "is_synonymous": false,
         "mutation": "ORF9:Q77E",
         "gene": "ORF9",
         "ref_aa": "Q",
@@ -200,13 +191,14 @@
         "alt_aa": "T"
       },
       {
-        "mutation_type": "deletion",
-        "is_synonymous": false,
-        "mutation": "ORF1ab:del3675–3677",
-        "gene": "ORF1ab",
-        "ref_aa": "SGF",
-        "codon_num": [3675, 3676, 3677],
-        "alt_aa": null
+        "mutation": "ORF1a:DEL3675/3677.0",
+        "type": "deletion",
+        "gene": "ORF1a",
+        "ref_codon": "TGGTTTTAA",
+        "pos": 11288,
+        "ref_aa": "S",
+        "codon_num": 3675,
+        "alt_aa": "NA"
       },
       {
         "mutation_type": "substitution",
