@@ -1,1 +1,73 @@
-[{"title": "2021-01-19: B.1.1.7 lineage prevalence", "name": "B.1.1.7", "url": "https://raw.githubusercontent.com/andersen-lab/hCoV19-sitrep/master/b117_current_report.html", "date": "2021-01-19", "type": "Lineage"}, {"title": "2021-01-19: CA VUI1 mutation prevalence", "name": "CA VUI1", "url": "https://raw.githubusercontent.com/andersen-lab/hCoV19-sitrep/master/cavui1_current_report.html", "date": "2021-01-19", "type": "Mutation"}, {"title": "2021-01-19: ORF1A:I4205V mutation prevalence", "name": "ORF1A:I4205V", "url": "https://raw.githubusercontent.com/andersen-lab/hCoV19-sitrep/master/orf1a_i4205v_current_report.html", "date": "2021-01-19", "type": "Mutation"}, {"title": "2021-01-19: ORF1B: D1183Y mutation prevalence", "name": "ORF1B: D1183Y", "url": "https://raw.githubusercontent.com/andersen-lab/hCoV19-sitrep/master/orf1b_d1183y_current_report.html", "date": "2021-01-19", "type": "Mutation"}, {"title": "2021-01-19: S: L452R mutation prevalence", "name": "S: L452R", "url": "https://raw.githubusercontent.com/andersen-lab/hCoV19-sitrep/master/s_l452r_current_report.html", "date": "2021-01-19", "type": "Mutation"}, {"title": "2021-01-19: S: S13I mutation prevalence", "name": "S: S13I", "url": "https://raw.githubusercontent.com/andersen-lab/hCoV19-sitrep/master/s_s13i_current_report.html", "date": "2021-01-19", "type": "Mutation"}, {"title": "2021-01-19: S: W152C mutation prevalence", "name": "S: W152C", "url": "https://raw.githubusercontent.com/andersen-lab/hCoV19-sitrep/master/s_w152c_current_report.html", "date": "2021-01-19", "type": "Mutation"}, {"title": "2021-01-14: B.1.1.7 lineage prevalence", "name": "B.1.1.7", "url": "https://raw.githubusercontent.com/andersen-lab/hCoV19-sitrep/master/archive/b117_2021-01-14.html", "date": "2021-01-14", "type": "Lineage"}, {"title": "2021-01-18: B.1.1.7 lineage prevalence", "name": "B.1.1.7", "url": "https://raw.githubusercontent.com/andersen-lab/hCoV19-sitrep/master/archive/b117_2021-01-18.html", "date": "2021-01-18", "type": "Lineage"}, {"title": "2021-01-16: B.1.1.7 lineage prevalence", "name": "B.1.1.7", "url": "https://raw.githubusercontent.com/andersen-lab/hCoV19-sitrep/master/archive/b117_2021-01-16.html", "date": "2021-01-16", "type": "Lineage"}]
+[{
+  "title": "2021-01-19: B.1.1.7 lineage prevalence",
+  "name": "B.1.1.7",
+  "url": "https://raw.githubusercontent.com/andersen-lab/hCoV19-sitrep/master/b117_current_report.html",
+  "date": "2021-01-19",
+  "type": "Lineage"
+}, {
+  "title": "2021-01-19: CA VUI1 mutation prevalence",
+  "name": "CA VUI1",
+  "url": "https://raw.githubusercontent.com/andersen-lab/hCoV19-sitrep/master/cavui1_current_report.html",
+  "date": "2021-01-19",
+  "type": "Mutation"
+}, {
+  "title": "S:N501Y Mutation Report",
+  "name": "S:N501Y",
+  "url": "https://andersen-lab.github.io/hCoV19-sitrep/s_n501y_current_report.html",
+  "date": "2021-01-19",
+  "type": "Mutation"
+}, {
+  "title": "S:P681H Mutation Report",
+  "name": "S:P681H",
+  "url": "https://andersen-lab.github.io/hCoV19-sitrep/s_p681h_current_report.html",
+  "date": "2021-01-19",
+  "type": "Mutation"
+}, {
+  "title": "S:E484K Mutation Report",
+  "name": "S:E484K",
+  "url": "https://andersen-lab.github.io/hCoV19-sitrep/s_e484k_current_report.html",
+  "date": "2021-01-19",
+  "type": "Mutation"
+}, {
+  "title": "2021-01-19: ORF1B: D1183Y mutation prevalence",
+  "name": "ORF1B: D1183Y",
+  "url": "https://raw.githubusercontent.com/andersen-lab/hCoV19-sitrep/master/orf1b_d1183y_current_report.html",
+  "date": "2021-01-19",
+  "type": "Mutation"
+}, {
+  "title": "2021-01-19: S: L452R mutation prevalence",
+  "name": "S: L452R",
+  "url": "https://raw.githubusercontent.com/andersen-lab/hCoV19-sitrep/master/s_l452r_current_report.html",
+  "date": "2021-01-19",
+  "type": "Mutation"
+}, {
+  "title": "2021-01-19: S: S13I mutation prevalence",
+  "name": "S: S13I",
+  "url": "https://raw.githubusercontent.com/andersen-lab/hCoV19-sitrep/master/s_s13i_current_report.html",
+  "date": "2021-01-19",
+  "type": "Mutation"
+}, {
+  "title": "2021-01-19: S: W152C mutation prevalence",
+  "name": "S: W152C",
+  "url": "https://raw.githubusercontent.com/andersen-lab/hCoV19-sitrep/master/s_w152c_current_report.html",
+  "date": "2021-01-19",
+  "type": "Mutation"
+}, {
+  "title": "2021-01-14: B.1.1.7 lineage prevalence",
+  "name": "B.1.1.7",
+  "url": "https://raw.githubusercontent.com/andersen-lab/hCoV19-sitrep/master/archive/b117_2021-01-14.html",
+  "date": "2021-01-14",
+  "type": "Lineage"
+}, {
+  "title": "2021-01-18: B.1.1.7 lineage prevalence",
+  "name": "B.1.1.7",
+  "url": "https://raw.githubusercontent.com/andersen-lab/hCoV19-sitrep/master/archive/b117_2021-01-18.html",
+  "date": "2021-01-18",
+  "type": "Lineage"
+}, {
+  "title": "2021-01-16: B.1.1.7 lineage prevalence",
+  "name": "B.1.1.7",
+  "url": "https://raw.githubusercontent.com/andersen-lab/hCoV19-sitrep/master/archive/b117_2021-01-16.html",
+  "date": "2021-01-16",
+  "type": "Lineage"
+}]
