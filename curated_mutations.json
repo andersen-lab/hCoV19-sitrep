@@ -199,7 +199,7 @@
         "ref_aa": "S",
         "codon_num": 3675,
         "alt_aa": "NA",
-        "change_length_nt":9
+        "change_length_nt": 9
       },
       {
         "type": "substitution",
@@ -639,168 +639,170 @@
       "name": "Outbreak.info"
     }],
     "mutations": [{
-        "type": "substitution",
-        "is_synonymous": true,
-        "gene": "ORF1ab",
-        "ref_codon": "C",
-        "alt_codon": "T",
-        "pos": 3266
-      },
-
-      {
-        "gene": "ORF1ab",
-        "type": "substitution",
-        "ref_aa": "T",
-        "alt_aa": "I",
-        "codon_num": 1001,
-        "aa_map_coords": 0
-      },
-      {
-        "gene": "ORF1ab",
-        "ref_aa": "I",
-        "codon_num": 2230,
-        "alt_aa": "T",
-        "aa_map_coords": 0
-      },
-      {
-        "gene": "ORF1ab",
-        "ref_aa": "A",
-        "codon_num": 1708,
-        "alt_aa": "D",
-        "aa_map_coords": 0
-      },
-      {
-        "gene": "S",
-        "type": "substitution",
-        "ref_codon": "AAT",
-        "alt_codon": ["TAT", "TAC"],
-        "ref_aa": "N",
-        "pos": 23062,
-        "codon_num": 501,
-        "alt_aa": "Y",
-        "is_synonymous": false,
-        "nuc_map_coords": null,
-        "aa_map_coords": 7096
-      },
-      {
-        "gene": "S",
-        "ref_aa": "A",
-        "codon_num": 570,
-        "alt_aa": "D",
-        "aa_map_coords": 7096
-      },
-      {
-        "gene": "S",
-        "ref_aa": "D",
-        "codon_num": 614,
-        "alt_aa": "G",
-        "aa_map_coords": 7096
-      },
-      {
-        "gene": "S",
-        "ref_aa": "P",
-        "codon_num": 681,
-        "alt_aa": "H",
-        "aa_map_coords": 7096
-      },
-      {
-        "gene": "S",
-        "ref_aa": "T",
-        "codon_num": 716,
-        "alt_aa": "I",
-        "aa_map_coords": 7096
-      },
-      {
-        "gene": "S",
-        "ref_aa": "S",
-        "codon_num": 982,
-        "alt_aa": "A",
-        "aa_map_coords": 7096
-      },
-      {
-        "gene": "S",
-        "ref_aa": "D",
-        "codon_num": 1118,
-        "alt_aa": "H",
-        "aa_map_coords": 7096
-      },
-      {
-        "gene": "N",
-        "ref_aa": "D",
-        "codon_num": 3,
-        "alt_aa": "L",
-        "aa_map_coords": 9287
-      },
-      {
-        "gene": "N",
-        "ref_aa": "S",
-        "codon_num": 235,
-        "alt_aa": "F",
-        "aa_map_coords": 9287
-      },
-      {
-        "gene": "ORF8",
-        "ref_aa": "R",
-        "codon_num": 52,
-        "alt_aa": "I",
-        "aa_map_coords": 9166
-      },
-      {
-        "gene": "ORF8",
-        "ref_aa": "Q",
-        "codon_num": 27,
-        "alt_aa": "_",
-        "aa_map_coords": 9166
-      },
-      {
-        "gene": "ORF8",
-        "ref_aa": "Y",
-        "codon_num": 73,
-        "alt_aa": "C",
-        "aa_map_coords": 9166
-      },
-      {
-        "gene": "S",
-        "type": "deletion",
-        "ref_codon": "",
-        "alt_codon": null,
-        "ref_aa": "",
-        "pos": null,
-        "codon_num": 69,
-        "alt_aa": null,
-        "is_synonymous": false,
-        "nuc_map_coords": null,
-        "aa_map_coords": 7096,
-        "length": 1
-      },
-      {
-        "gene": "S",
-        "type": "deletion",
-        "ref_codon": "",
-        "alt_codon": null,
-        "ref_aa": "",
-        "pos": null,
-        "codon_num": 70,
-        "alt_aa": null,
-        "is_synonymous": false,
-        "nuc_map_coords": null,
-        "aa_map_coords": 7096,
-        "length": 1
-      },
-      {
-        "gene": "S",
-        "type": "deletion",
-        "ref_codon": "",
-        "alt_codon": null,
-        "ref_aa": "",
-        "pos": null,
-        "codon_num": 144,
-        "alt_aa": null,
-        "is_synonymous": false,
-        "nuc_map_coords": null,
-        "aa_map_coords": 7096,
-        "length": 1
-      }
-    ]
+      "mutation": "ORF1a:T1001I",
+      "type": "substitution",
+      "gene": "ORF1a",
+      "ref_codon": "ACT",
+      "pos": 3266,
+      "ref_aa": "T",
+      "codon_num": 1001,
+      "alt_aa": "I"
+    }, {
+      "mutation": "ORF1a:A1708D",
+      "type": "substitution",
+      "gene": "ORF1a",
+      "ref_codon": "GCT",
+      "pos": 5387,
+      "ref_aa": "A",
+      "codon_num": 1708,
+      "alt_aa": "D"
+    }, {
+      "mutation": "ORF1a:I2230T",
+      "type": "substitution",
+      "gene": "ORF1a",
+      "ref_codon": "ATA",
+      "pos": 6954,
+      "ref_aa": "I",
+      "codon_num": 2230,
+      "alt_aa": "T"
+    }, {
+      "mutation": "ORF1a:DEL3675/3677.0",
+      "type": "deletion",
+      "gene": "ORF1a",
+      "ref_codon": "TGGTTTTAA",
+      "pos": 11288,
+      "ref_aa": "S",
+      "codon_num": 3675,
+      "alt_aa": "NA",
+      "change_length_nt": 9
+    }, {
+      "mutation": "S:DEL69/70.0",
+      "type": "deletion",
+      "gene": "S",
+      "ref_codon": "CATGTC",
+      "pos": 21765,
+      "ref_aa": "H",
+      "codon_num": 69,
+      "alt_aa": "NA",
+      "change_length_nt": 6
+    }, {
+      "mutation": "S:DEL144/144.0",
+      "type": "deletion",
+      "gene": "S",
+      "ref_codon": "TAT",
+      "pos": 21990,
+      "ref_aa": "Y",
+      "codon_num": 144,
+      "alt_aa": "NA",
+      "change_length_nt": 3
+    }, {
+      "mutation": "S:N501Y",
+      "type": "substitution",
+      "gene": "S",
+      "ref_codon": "AAT",
+      "pos": 23063,
+      "ref_aa": "N",
+      "codon_num": 501,
+      "alt_aa": "Y"
+    }, {
+      "mutation": "S:A570D",
+      "type": "substitution",
+      "gene": "S",
+      "ref_codon": "GCT",
+      "pos": 23271,
+      "ref_aa": "A",
+      "codon_num": 570,
+      "alt_aa": "D"
+    }, {
+      "mutation": "S:D614G",
+      "type": "substitution",
+      "gene": "S",
+      "ref_codon": "GAT",
+      "pos": 23402,
+      "ref_aa": "D",
+      "codon_num": 614,
+      "alt_aa": "G"
+    }, {
+      "mutation": "S:P681H",
+      "type": "substitution",
+      "gene": "S",
+      "ref_codon": "CCT",
+      "pos": 23604,
+      "ref_aa": "P",
+      "codon_num": 681,
+      "alt_aa": "H"
+    }, {
+      "mutation": "S:T716I",
+      "type": "substitution",
+      "gene": "S",
+      "ref_codon": "ACA",
+      "pos": 23708,
+      "ref_aa": "T",
+      "codon_num": 716,
+      "alt_aa": "I"
+    }, {
+      "mutation": "S:S982A",
+      "type": "substitution",
+      "gene": "S",
+      "ref_codon": "TCA",
+      "pos": 24506,
+      "ref_aa": "S",
+      "codon_num": 982,
+      "alt_aa": "A"
+    }, {
+      "mutation": "S:D1118H",
+      "type": "substitution",
+      "gene": "S",
+      "ref_codon": "GAC",
+      "pos": 24914,
+      "ref_aa": "D",
+      "codon_num": 1118,
+      "alt_aa": "H"
+    }, {
+      "mutation": "ORF8:Q27_",
+      "type": "substitution",
+      "gene": "ORF8",
+      "ref_codon": "CAA",
+      "pos": 27971,
+      "ref_aa": "Q",
+      "codon_num": 27,
+      "alt_aa": "_"
+    }, {
+      "mutation": "ORF8:R52I",
+      "type": "substitution",
+      "gene": "ORF8",
+      "ref_codon": "AGA",
+      "pos": 28047,
+      "ref_aa": "R",
+      "codon_num": 52,
+      "alt_aa": "I"
+    }, {
+      "mutation": "ORF8:Y73C",
+      "type": "substitution",
+      "gene": "ORF8",
+      "ref_codon": "TAC",
+      "pos": 28111,
+      "ref_aa": "Y",
+      "codon_num": 73,
+      "alt_aa": "C"
+    }, {
+      "mutation": "N:D3L",
+      "type": "substitution",
+      "gene": "N",
+      "ref_codon": "GAT",
+      "pos": 28280,
+      "ref_aa": "D",
+      "codon_num": 3,
+      "alt_aa": "L"
+    }, {
+      "mutation": "N:S235F",
+      "type": "substitution",
+      "gene": "N",
+      "ref_codon": "TCT",
+      "pos": 28977,
+      "ref_aa": "S",
+      "codon_num": 235,
+      "alt_aa": "F"
+    }]
   }
 ]
