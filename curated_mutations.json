@@ -523,6 +523,106 @@
     "author": [{
       "@type": "Organization",
       "name": "Outbreak.info"
+    }],
+    "mutations": [{
+      "mutation": "5UTR:R81C",
+      "type": "substitution",
+      "gene": "5UTR",
+      "ref_codon": "CGT",
+      "pos": 240,
+      "ref_aa": "R",
+      "codon_num": 81,
+      "alt_aa": "C"
+    }, {
+      "mutation": "ORF1a:T265I",
+      "type": "substitution",
+      "gene": "ORF1a",
+      "ref_codon": "ACC",
+      "pos": 1059,
+      "ref_aa": "T",
+      "codon_num": 265,
+      "alt_aa": "I"
+    }, {
+      "mutation": "ORF1a:I4205V",
+      "type": "substitution",
+      "gene": "ORF1a",
+      "ref_codon": "ATC",
+      "pos": 12879,
+      "ref_aa": "I",
+      "codon_num": 4205,
+      "alt_aa": "V"
+    }, {
+      "mutation": "ORF1b:P314L",
+      "type": "substitution",
+      "gene": "ORF1b",
+      "ref_codon": "CCT",
+      "pos": 14407,
+      "ref_aa": "P",
+      "codon_num": 314,
+      "alt_aa": "L"
+    }, {
+      "mutation": "ORF1b:D1183Y",
+      "type": "substitution",
+      "gene": "ORF1b",
+      "ref_codon": "GAT",
+      "pos": 17013,
+      "ref_aa": "D",
+      "codon_num": 1183,
+      "alt_aa": "Y"
+    }, {
+      "mutation": "S:S13I",
+      "type": "substitution",
+      "gene": "S",
+      "ref_codon": "AGT",
+      "pos": 21599,
+      "ref_aa": "S",
+      "codon_num": 13,
+      "alt_aa": "I"
+    }, {
+      "mutation": "S:W152C",
+      "type": "substitution",
+      "gene": "S",
+      "ref_codon": "TGG",
+      "pos": 22017,
+      "ref_aa": "W",
+      "codon_num": 152,
+      "alt_aa": "C"
+    }, {
+      "mutation": "S:L452R",
+      "type": "substitution",
+      "gene": "S",
+      "ref_codon": "CTG",
+      "pos": 22916,
+      "ref_aa": "L",
+      "codon_num": 452,
+      "alt_aa": "R"
+    }, {
+      "mutation": "S:D614G",
+      "type": "substitution",
+      "gene": "S",
+      "ref_codon": "GAT",
+      "pos": 23402,
+      "ref_aa": "D",
+      "codon_num": 614,
+      "alt_aa": "G"
+    }, {
+      "mutation": "ORF3a:Q57H",
+      "type": "substitution",
+      "gene": "ORF3a",
+      "ref_codon": "CAG",
+      "pos": 25562,
+      "ref_aa": "Q",
+      "codon_num": 57,
+      "alt_aa": "H"
+    }, {
+      "mutation": "N:T205I",
+      "type": "substitution",
+      "gene": "N",
+      "ref_codon": "ACT",
+      "pos": 28887,
+      "ref_aa": "T",
+      "codon_num": 205,
+      "alt_aa": "I"
     }]
   },
   {
@@ -531,7 +631,7 @@
     "pangolin_lineage": "B.1.1.7",
     "nextstrain_clade": "20I/501Y.V1",
     "mutation_synonyms": ["Variant of Concern 202012/01", "VOC-202012/01", "20B/501Y.V1", "20I/501Y.V1"],
-    "searchTerms": ["B.1.1.7", "Variant of Concern 202012/01", "VOC-202012/01", "202012/01", "20B/501Y.V1", "20I/501Y.V1", "501Y.V1", "voc 20201201","voc-202012/01","vui 20201201"],
+    "searchTerms": ["B.1.1.7", "Variant of Concern 202012/01", "VOC-202012/01", "202012/01", "20B/501Y.V1", "20I/501Y.V1", "501Y.V1", "voc 20201201", "voc-202012/01", "vui 20201201"],
     "reportType": "lineage",
     "variantType": "Variant of Concern",
     "location_first_identified": "United Kingdom",
