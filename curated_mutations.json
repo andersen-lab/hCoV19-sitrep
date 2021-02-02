@@ -630,7 +630,7 @@
     "location_first_identified": "United Kingdom",
     "url": "https://andersen-lab.github.io/hCoV19-sitrep/b117_current_report.html",
     "name": "B.1.1.7 lineage prevalence",
-    "description": "Prevalence of lineage B.1.1.7 over time.",
+    "description": "Concerns surrounding a new strain of SARS-CoV-2 (hCov-19), the virus behind the COVID-19 pandemic, have been developing. B.1.1.7 lineage, also known as Variant of Concern 202012/01 (VOC-202012/01) or 20B/501Y.V1, was first identified in the UK in early December 2020 and has since been detected in the US and other counties. This is of growing concern because it has shown to be significantly more transmissible than other variants.",
     "journalName": "outbreak.info",
     "datePublished": "2021-01-19",
     "publicationType": "Report",
