@@ -5,11 +5,11 @@
   "date": "2021-01-19",
   "type": "Lineage"
 }, {
-  "title": "2021-01-19: CA VUI1 mutation prevalence",
-  "name": "CA VUI1",
-  "url": "https://raw.githubusercontent.com/andersen-lab/hCoV19-sitrep/master/cavui1_current_report.html",
-  "date": "2021-01-19",
-  "type": "Mutation"
+  "title": "2021-01-19: B.1.429 lineage prevalence",
+  "name": "B1429",
+  "url": "https://raw.githubusercontent.com/andersen-lab/hCoV19-sitrep/master/b1429_current_report.html",
+  "date": "2021-02-02",
+  "type": "Lineage"
 }, {
   "title": "S:N501Y Mutation Report",
   "name": "S:N501Y",
