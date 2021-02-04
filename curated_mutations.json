@@ -595,26 +595,6 @@
     }]
   },
   {
-    "identifier": "B-1-427",
-    "mutation_name": "B.1.427",
-    "pangolin_lineage": "B.1.427",
-    "mutation_synonyms": ["CA VUI1"],
-    "searchTerms": ["B.1.427", "CAVUI1", "CA VUI1", "b1427", "cal.20C", "cal20c"],
-    "reportType": "lineage",
-    "variantType": "Variant of Interest",
-    "location_first_identified": "California (United States)",
-    "url": "https://andersen-lab.github.io/hCoV19-sitrep/b1429_current_report.html",
-    "name": "",
-    "description": "",
-    "journalName": "outbreak.info",
-    "datePublished": "2021-02-03",
-    "publicationType": "Report",
-    "author": [{
-      "@type": "Organization",
-      "name": "Outbreak.info"
-    }]
-  },
-  {
     "identifier": "B-1-1-7",
     "mutation_name": "B.1.1.7",
     "pangolin_lineage": "B.1.1.7",
