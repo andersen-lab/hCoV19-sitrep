@@ -381,6 +381,39 @@
     }]
   },
   {
+    "identifier": "S-N501Y+E484K",
+    "mutation_name": "S:N501Y + S:E484K",
+    "reportType": "mutation",
+    "url": "https://andersen-lab.github.io/hCoV19-sitrep/nelly_eek_current_report.html",
+    "name": "",
+    "description": "",
+    "journalName": "outbreak.info",
+    "datePublished": "2021-02-17",
+    "publicationType": "Report",
+    "author": [{
+      "@type": "Organization",
+      "name": "Outbreak.info"
+    }],
+    "mutations": [{
+      "type": "substitution",
+      "is_synonymous": false,
+      "mutation": "S:E484K",
+      "gene": "S",
+      "ref_aa": "E",
+      "codon_num": 484,
+      "alt_aa": "K"
+    },
+    {
+      "type": "substitution",
+      "is_synonymous": false,
+      "mutation": "S:N501Y",
+      "gene": "S",
+      "ref_aa": "N",
+      "codon_num": 501,
+      "alt_aa": "Y"
+    }]
+  },
+  {
     "identifier": "B-1-351",
     "mutation_name": "B.1.351",
     "pangolin_lineage": "B.1.351",
