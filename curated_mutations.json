@@ -527,15 +527,6 @@
       "name": "Outbreak.info"
     }],
     "mutations": [{
-      "mutation": "5UTR:R81C",
-      "type": "substitution",
-      "gene": "5UTR",
-      "ref_codon": "CGT",
-      "pos": 240,
-      "ref_aa": "R",
-      "codon_num": 81,
-      "alt_aa": "C"
-    }, {
       "mutation": "ORF1a:T265I",
       "type": "substitution",
       "gene": "ORF1a",
