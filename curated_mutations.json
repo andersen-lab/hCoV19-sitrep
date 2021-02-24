@@ -49,11 +49,11 @@
       {
         "type": "substitution",
         "is_synonymous": false,
-        "mutation": "ORF3a:C174G",
+        "mutation": "ORF3a:G174C",
         "gene": "ORF3a",
-        "ref_aa": "C",
+        "ref_aa": "G",
         "codon_num": 174,
-        "alt_aa": "G"
+        "alt_aa": "C"
       },
       {
         "type": "substitution",
