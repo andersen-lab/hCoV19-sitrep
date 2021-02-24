@@ -31,15 +31,6 @@
       {
         "type": "substitution",
         "is_synonymous": false,
-        "mutation": "ORF9:Q77E",
-        "gene": "ORF9",
-        "ref_aa": "Q",
-        "codon_num": 77,
-        "alt_aa": "E"
-      },
-      {
-        "type": "substitution",
-        "is_synonymous": false,
         "mutation": "ORF8:E92K",
         "gene": "ORF8",
         "ref_aa": "E",
