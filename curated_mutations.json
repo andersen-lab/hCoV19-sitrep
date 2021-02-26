@@ -855,7 +855,7 @@
       "selected": "New York",
       "selectedType": "division"
     },
-    "reportType": "lineage + mutation",
+    "reportType": "Lineage + Mutation",
     "variantType": "Variant of Interest",
     "location_first_identified": "New York (United States)",
     "mutations": [{
@@ -950,6 +950,7 @@
   {
     "mutation_name": "B.1.526 + S:S477N",
     "pangolin_lineage": "B.1.526",
+    "reportType": "Lineage + Mutation",
     "variantType": "Variant of Interest",
     "location_first_identified": "New York",
     "reportQuery": {
