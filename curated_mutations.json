@@ -228,30 +228,6 @@
     }]
   },
   {
-    "identifier": "S-W152C",
-    "mutation_name": "S:W152C",
-    "reportType": "mutation",
-    "url": "https://andersen-lab.github.io/hCoV19-sitrep/s_w152c_current_report.html",
-    "name": "",
-    "description": "",
-    "journalName": "outbreak.info",
-    "datePublished": "2021-01-19",
-    "publicationType": "Report",
-    "author": [{
-      "@type": "Organization",
-      "name": "Outbreak.info"
-    }],
-    "mutations": [{
-      "type": "substitution",
-      "is_synonymous": false,
-      "mutation": "S:W152C",
-      "gene": "S",
-      "ref_aa": "W",
-      "codon_num": 152,
-      "alt_aa": "C"
-    }]
-  },
-  {
     "identifier": "S-S13I",
     "mutation_name": "S:S13I",
     "reportType": "mutation",
@@ -273,30 +249,6 @@
       "ref_aa": "S",
       "codon_num": 13,
       "alt_aa": "I"
-    }]
-  },
-  {
-    "identifier": "ORF1b-D1183Y",
-    "mutation_name": "ORF1b:D1183Y",
-    "reportType": "mutation",
-    "url": "https://andersen-lab.github.io/hCoV19-sitrep/orf1b_d1183y_current_report.html",
-    "name": "",
-    "description": "",
-    "journalName": "outbreak.info",
-    "datePublished": "2021-01-19",
-    "publicationType": "Report",
-    "author": [{
-      "@type": "Organization",
-      "name": "Outbreak.info"
-    }],
-    "mutations": [{
-      "type": "substitution",
-      "is_synonymous": false,
-      "mutation": "ORF1b:D1183Y",
-      "gene": "ORF1b",
-      "ref_aa": "D",
-      "codon_num": 1183,
-      "alt_aa": "Y"
     }]
   },
   {
