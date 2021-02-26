@@ -924,6 +924,197 @@
     }]
   },
   {
+    "mutation_name": "B.1.526 + S:E484K",
+    "added_mutations": "S:E484K",
+    "pangolin_lineage": "B.1.526",
+    "variantType": "Variant of Interest",
+    "location_first_identified": "New York",
+    "location_first_identified_type": "division",
+    "mutations": [{
+        "mutation": "ORF1b:Q1011H",
+        "gene": "ORF1b",
+        "ref_aa": "Q",
+        "alt_aa": "H",
+        "codon_num": 1011,
+        "type": "substitution"
+      },
+      {
+        "mutation": "S:D253G",
+        "gene": "S",
+        "ref_aa": "D",
+        "alt_aa": "G",
+        "codon_num": 253,
+        "type": "substitution"
+      },
+      {
+        "mutation": "S:D614G",
+        "gene": "S",
+        "ref_aa": "D",
+        "alt_aa": "G",
+        "codon_num": 614,
+        "type": "substitution"
+      },
+      {
+        "mutation": "ORF1b:P314L",
+        "gene": "ORF1b",
+        "ref_aa": "P",
+        "alt_aa": "L",
+        "codon_num": 314,
+        "type": "substitution"
+      },
+      {
+        "mutation": "ORF1a:L3201P",
+        "gene": "ORF1a",
+        "ref_aa": "L",
+        "alt_aa": "P",
+        "codon_num": 3201,
+        "type": "substitution"
+      },
+      {
+        "mutation": "ORF1a:T265I",
+        "gene": "ORF1a",
+        "ref_aa": "T",
+        "alt_aa": "I",
+        "codon_num": 265,
+        "type": "substitution"
+      },
+      {
+        "mutation": "ORF3a:Q57H",
+        "gene": "ORF3a",
+        "ref_aa": "Q",
+        "alt_aa": "H",
+        "codon_num": 57,
+        "type": "substitution"
+      },
+      {
+        "mutation": "S:T95I",
+        "gene": "S",
+        "ref_aa": "T",
+        "alt_aa": "I",
+        "codon_num": 95,
+        "type": "substitution"
+      },
+        "mutation": "S:E484K",
+        "gene": "S",
+        "ref_aa": "E",
+        "alt_aa": "K",
+        "codon_num": 484,
+        "type": "substitution"
+      },
+      {
+        "mutation": "ORF3a:P42L",
+        "gene": "ORF3a",
+        "ref_aa": "P",
+        "alt_aa": "L",
+        "codon_num": 42,
+        "type": "substitution"
+      },
+      {
+        "mutation": "ORF8:T11I",
+        "gene": "ORF8",
+        "ref_aa": "T",
+        "alt_aa": "I",
+        "codon_num": 11,
+        "type": "substitution"
+      }]
+  },
+  {
+    "mutation_name": "B.1.526 + S:S477N",
+    "added_mutations": "S:S477N",
+    "pangolin_lineage": "B.1.526",
+    "variantType": "Variant of Interest",
+    "location_first_identified": "New York",
+    "location_first_identified_type": "division",
+    "mutations": [{
+        "mutation": "ORF1b:Q1011H",
+        "gene": "ORF1b",
+        "ref_aa": "Q",
+        "alt_aa": "H",
+        "codon_num": 1011,
+        "type": "substitution"
+      },
+      {
+        "mutation": "S:D253G",
+        "gene": "S",
+        "ref_aa": "D",
+        "alt_aa": "G",
+        "codon_num": 253,
+        "type": "substitution"
+      },
+      {
+        "mutation": "S:D614G",
+        "gene": "S",
+        "ref_aa": "D",
+        "alt_aa": "G",
+        "codon_num": 614,
+        "type": "substitution"
+      },
+      {
+        "mutation": "ORF1b:P314L",
+        "gene": "ORF1b",
+        "ref_aa": "P",
+        "alt_aa": "L",
+        "codon_num": 314,
+        "type": "substitution"
+      },
+      {
+        "mutation": "ORF1a:L3201P",
+        "gene": "ORF1a",
+        "ref_aa": "L",
+        "alt_aa": "P",
+        "codon_num": 3201,
+        "type": "substitution"
+      },
+      {
+        "mutation": "ORF1a:T265I",
+        "gene": "ORF1a",
+        "ref_aa": "T",
+        "alt_aa": "I",
+        "codon_num": 265,
+        "type": "substitution"
+      },
+      {
+        "mutation": "ORF3a:Q57H",
+        "gene": "ORF3a",
+        "ref_aa": "Q",
+        "alt_aa": "H",
+        "codon_num": 57,
+        "type": "substitution"
+      },
+      {
+        "mutation": "S:T95I",
+        "gene": "S",
+        "ref_aa": "T",
+        "alt_aa": "I",
+        "codon_num": 95,
+        "type": "substitution"
+      },
+      {
+        "mutation": "S:S477N",
+        "gene": "S",
+        "ref_aa": "S",
+        "alt_aa": "N",
+        "codon_num": 477,
+        "type": "substitution"
+      },
+      {
+        "mutation": "ORF3a:P42L",
+        "gene": "ORF3a",
+        "ref_aa": "P",
+        "alt_aa": "L",
+        "codon_num": 42,
+        "type": "substitution"
+      },
+      {
+        "mutation": "ORF8:T11I",
+        "gene": "ORF8",
+        "ref_aa": "T",
+        "alt_aa": "I",
+        "codon_num": 11,
+        "type": "substitution"
+      }]
+  },
+  {
     "identifier": "B-1-1-7_S-E484K",
     "mutation_name": "B.1.1.7 + S:E484K",
     "added_mutations": "S:E484K",
@@ -931,7 +1122,7 @@
     "nextstrain_clade": "20I/501Y.V1",
     "mutation_synonyms": ["Variant of Concern 202012/01", "VOC-202012/01", "20B/501Y.V1", "20I/501Y.V1"],
     "searchTerms": ["B.1.1.7", "Variant of Concern 202012/01", "VOC-202012/01", "202012/01", "20B/501Y.V1", "20I/501Y.V1", "501Y.V1", "voc 20201201", "voc-202012/01", "vui 20201201"],
-    "reportType": "lineage + mutation",
+    "reportType": "Lineage + Mutation",
     "variantType": "Variant of Concern",
     "location_first_identified": "United Kingdom",
     "location_first_identified_type": "country",
