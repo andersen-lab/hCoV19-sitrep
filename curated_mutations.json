@@ -926,6 +926,7 @@
   {
     "identifier": "B-1-1-7_S-E484K",
     "mutation_name": "B.1.1.7 + S:E484K",
+    "added_mutations": "S:E484K",
     "pangolin_lineage": "B.1.1.7",
     "nextstrain_clade": "20I/501Y.V1",
     "mutation_synonyms": ["Variant of Concern 202012/01", "VOC-202012/01", "20B/501Y.V1", "20I/501Y.V1"],
