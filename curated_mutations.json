@@ -198,19 +198,11 @@
     ]
   },
   {
-    "identifier": "S-N501Y",
     "mutation_name": "S:N501Y",
     "reportType": "mutation",
-    "url": "https://andersen-lab.github.io/hCoV19-sitrep/s_n501y_current_report.html",
-    "name": "",
-    "description": "",
-    "journalName": "outbreak.info",
-    "datePublished": "2021-01-19",
-    "publicationType": "Report",
-    "author": [{
-      "@type": "Organization",
-      "name": "Outbreak.info"
-    }],
+    "reportQuery": {
+      "muts": "S:N501Y"
+    },
     "mutations": [{
       "type": "substitution",
       "is_synonymous": false,
@@ -222,18 +214,11 @@
     }]
   },
   {
-    "identifier": "S-S13I_S-L452R",
     "mutation_name": "S:S13I + S:L452R",
     "reportType": "mutation",
-    "name": "",
-    "description": "",
-    "journalName": "outbreak.info",
-    "datePublished": "2021-02-25",
-    "publicationType": "Report",
-    "author": [{
-      "@type": "Organization",
-      "name": "Outbreak.info"
-    }],
+    "reportQuery": {
+      "muts": ["S:S13I", "S:L452R"]
+    },
     "mutations": [{
         "type": "substitution",
         "is_synonymous": false,
@@ -255,19 +240,11 @@
     ]
   },
   {
-    "identifier": "S-L452R",
     "mutation_name": "S:L452R",
     "reportType": "mutation",
-    "url": "https://andersen-lab.github.io/hCoV19-sitrep/s_l452r_current_report.html",
-    "name": "",
-    "description": "",
-    "journalName": "outbreak.info",
-    "datePublished": "2021-01-19",
-    "publicationType": "Report",
-    "author": [{
-      "@type": "Organization",
-      "name": "Outbreak.info"
-    }],
+    "reportQuery": {
+      "muts": ["S:L452R"]
+    },
     "mutations": [{
       "type": "substitution",
       "is_synonymous": false,
@@ -279,19 +256,11 @@
     }]
   },
   {
-    "identifier": "S-E484K",
     "mutation_name": "S:E484K",
     "reportType": "mutation",
-    "url": "https://andersen-lab.github.io/hCoV19-sitrep/s_e484k_current_report.html",
-    "name": "",
-    "description": "",
-    "journalName": "outbreak.info",
-    "datePublished": "2021-01-19",
-    "publicationType": "Report",
-    "author": [{
-      "@type": "Organization",
-      "name": "Outbreak.info"
-    }],
+    "reportQuery": {
+      "muts": ["S:E484K"]
+    },
     "mutations": [{
       "type": "substitution",
       "is_synonymous": false,
@@ -303,19 +272,11 @@
     }]
   },
   {
-    "identifier": "S-N501Y_S-E484K",
     "mutation_name": "S:N501Y + S:E484K",
     "reportType": "mutation",
-    "url": "https://andersen-lab.github.io/hCoV19-sitrep/nelly_eek_current_report.html",
-    "name": "",
-    "description": "",
-    "journalName": "outbreak.info",
-    "datePublished": "2021-02-17",
-    "publicationType": "Report",
-    "author": [{
-      "@type": "Organization",
-      "name": "Outbreak.info"
-    }],
+    "reportQuery": {
+      "muts": ["S:N501Y", "S:E484K"]
+    },
     "mutations": [{
         "type": "substitution",
         "is_synonymous": false,
@@ -337,7 +298,6 @@
     ]
   },
   {
-    "identifier": "B-1-351",
     "mutation_name": "B.1.351",
     "pangolin_lineage": "B.1.351",
     "nextstrain_clade": "20H/501Y.V2",
@@ -346,17 +306,11 @@
     "reportType": "lineage",
     "variantType": "Variant of Concern",
     "location_first_identified": "South Africa",
-    "location_first_identified_type": "country",
-    "url": "",
-    "name": "",
-    "description": "",
-    "journalName": "outbreak.info",
-    "datePublished": "2021-01-19",
-    "publicationType": "Report",
-    "author": [{
-      "@type": "Organization",
-      "name": "Outbreak.info"
-    }],
+    "reportQuery": {
+      "pango": "B.1.351",
+      "selected": "South Africa",
+      "selectedType": "country"
+    },
     "mutations": [{
         "type": "substitution",
         "is_synonymous": false,
@@ -434,19 +388,15 @@
   {
     "mutation_name": "B.1.526",
     "pangolin_lineage": "B.1.526",
-    "mutation_synonyms": [],
     "searchTerms": ["B.1.526", "B1526"],
     "reportType": "lineage",
     "variantType": "Variant of Interest",
     "location_first_identified": "New York",
-    "location_first_identified_type": "division",
-    "journalName": "outbreak.info",
-    "datePublished": "2021-02-25",
-    "publicationType": "Report",
-    "author": [{
-      "@type": "Organization",
-      "name": "Outbreak.info"
-    }],
+    "reportQuery": {
+      "pango": "B.1.526",
+      "selected": "New York",
+      "selectedType": "division"
+    },
     "mutations": [{
         "mutation": "ORF1b:Q1011H",
         "gene": "ORF1b",
@@ -530,7 +480,6 @@
     ]
   },
   {
-    "identifier": "B-1-429",
     "mutation_name": "B.1.429",
     "pangolin_lineage": "B.1.429",
     "mutation_synonyms": ["CA VUI1", "CAL.20C"],
@@ -538,17 +487,11 @@
     "reportType": "lineage",
     "variantType": "Variant of Interest",
     "location_first_identified": "California",
-    "location_first_identified_type": "division",
-    "url": "https://andersen-lab.github.io/hCoV19-sitrep/b1429_current_report.html",
-    "name": "",
-    "description": "",
-    "journalName": "outbreak.info",
-    "datePublished": "2021-01-19",
-    "publicationType": "Report",
-    "author": [{
-      "@type": "Organization",
-      "name": "Outbreak.info"
-    }],
+    "reportQuery": {
+      "pango": "B.1.429",
+      "selected": "California",
+      "selectedType": "division"
+    },
     "mutations": [{
       "mutation": "ORF1a:T265I",
       "type": "substitution",
@@ -642,7 +585,6 @@
     }]
   },
   {
-    "identifier": "B-1-427",
     "mutation_name": "B.1.427",
     "pangolin_lineage": "B.1.427",
     "mutation_synonyms": ["CA VUI1", "CAL.20C"],
@@ -650,17 +592,11 @@
     "reportType": "lineage",
     "variantType": "Variant of Interest",
     "location_first_identified": "California",
-    "location_first_identified_type": "division",
-    "url": "https://andersen-lab.github.io/hCoV19-sitrep/b1429_current_report.html",
-    "name": "",
-    "description": "",
-    "journalName": "outbreak.info",
-    "datePublished": "2021-01-19",
-    "publicationType": "Report",
-    "author": [{
-      "@type": "Organization",
-      "name": "Outbreak.info"
-    }],
+    "reportQuery": {
+      "pango": "B.1.427",
+      "selected": "California",
+      "selectedType": "division"
+    },
     "mutations": [{
         "mutation": "S:D614G",
         "gene": "S",
@@ -728,7 +664,6 @@
     ]
   },
   {
-    "identifier": "B-1-1-7",
     "mutation_name": "B.1.1.7",
     "pangolin_lineage": "B.1.1.7",
     "nextstrain_clade": "20I/501Y.V1",
@@ -737,18 +672,13 @@
     "reportType": "lineage",
     "variantType": "Variant of Concern",
     "location_first_identified": "United Kingdom",
-    "location_first_identified_type": "country",
-    "url": "https://andersen-lab.github.io/hCoV19-sitrep/b117_current_report.html",
-    "name": "B.1.1.7 lineage prevalence",
     "description": "Concerns surrounding a new strain of SARS-CoV-2 (hCov-19), the virus behind the COVID-19 pandemic, have been developing. <b>B.1.1.7 lineage</b>, also known as <span class='text-highlight'>Variant of Concern 202012/01</span> (VOC-202012/01) or <span class='text-highlight'>20B/501Y.V1</span>, was first identified in the UK in September 2020 and has since been detected in the US and other countries. This is of growing concern because it has shown to be significantly more transmissible than other variants.",
-    "journalName": "outbreak.info",
-    "datePublished": "2021-01-19",
-    "publicationType": "Report",
     "disclaimer": "B.1.1.7 genomes in the US were identified by S-gene target failures (SGTF) in community-based diagnostic PCR testing. Since this is not an unbiased approach, it does not indicate the true prevalence of the B117 lineage.  <a class='text-light text-underline ml-3' href='https://outbreak.info/situation-reports/caveats'>How to interpret this report</a>",
-    "author": [{
-      "@type": "Organization",
-      "name": "Outbreak.info"
-    }],
+    "reportQuery": {
+      "pango": "B.1.1.7",
+      "selected": "United Kingdom",
+      "selectedType": "country"
+    },
     "mutations": [{
       "mutation": "ORF1a:T1001I",
       "type": "substitution",
@@ -922,8 +852,8 @@
     "reportQuery": {
       "pango": "B.1.526",
       "muts": ["S:E484K"],
-      "selected": "Brazil",
-      "selectedType": "country"
+      "selected": "New York",
+      "selectedType": "division"
     },
     "reportType": "lineage + mutation",
     "variantType": "Variant of Interest",
@@ -1019,11 +949,15 @@
   },
   {
     "mutation_name": "B.1.526 + S:S477N",
-    "added_mutations": "S:S477N",
     "pangolin_lineage": "B.1.526",
     "variantType": "Variant of Interest",
     "location_first_identified": "New York",
-    "location_first_identified_type": "division",
+    "reportQuery": {
+      "pango": "B.1.526",
+      "muts": ["S:S477N"],
+      "selected": "New York",
+      "selectedType": "division"
+    },
     "mutations": [{
         "mutation": "ORF1b:Q1011H",
         "gene": "ORF1b",
@@ -1115,28 +1049,23 @@
     ]
   },
   {
-    "identifier": "B-1-1-7_S-E484K",
     "mutation_name": "B.1.1.7 + S:E484K",
-    "added_mutations": "S:E484K",
     "pangolin_lineage": "B.1.1.7",
+    "reportQuery": {
+      "pango": "B.1.1.7",
+      "muts": ["S:E484K"],
+      "selected": "United Kingdom",
+      "selectedType": "country"
+    },
     "nextstrain_clade": "20I/501Y.V1",
     "mutation_synonyms": ["Variant of Concern 202012/01", "VOC-202012/01", "20B/501Y.V1", "20I/501Y.V1"],
     "searchTerms": ["B.1.1.7", "Variant of Concern 202012/01", "VOC-202012/01", "202012/01", "20B/501Y.V1", "20I/501Y.V1", "501Y.V1", "voc 20201201", "voc-202012/01", "vui 20201201"],
     "reportType": "Lineage + Mutation",
     "variantType": "Variant of Concern",
     "location_first_identified": "United Kingdom",
-    "location_first_identified_type": "country",
     "url": "https://andersen-lab.github.io/hCoV19-sitrep/b117_current_report.html",
-    "name": "B.1.1.7 lineage prevalence",
     "description": "Concerns surrounding a new strain of SARS-CoV-2 (hCov-19), the virus behind the COVID-19 pandemic, have been developing. <b>B.1.1.7 lineage</b>, also known as <span class='text-highlight'>Variant of Concern 202012/01</span> (VOC-202012/01) or <span class='text-highlight'>20B/501Y.V1</span>, was first identified in the UK in September 2020 and has since been detected in the US and other countries. This is of growing concern because it has shown to be significantly more transmissible than other variants.",
-    "journalName": "outbreak.info",
-    "datePublished": "2021-01-19",
-    "publicationType": "Report",
     "disclaimer": "B.1.1.7 genomes in the US were identified by S-gene target failures (SGTF) in community-based diagnostic PCR testing. Since this is not an unbiased approach, it does not indicate the true prevalence of the B117 lineage.  <a class='text-light text-underline ml-3' href='https://outbreak.info/situation-reports/caveats'>How to interpret this report</a>",
-    "author": [{
-      "@type": "Organization",
-      "name": "Outbreak.info"
-    }],
     "mutations": [{
       "mutation": "ORF1a:T1001I",
       "type": "substitution",
