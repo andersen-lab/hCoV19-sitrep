@@ -228,7 +228,7 @@
     }]
   },
   {
-    "identifier": "S-S13I",
+    "identifier": "S-S13I_S-L452R",
     "mutation_name": "S:S13I + S:L452R",
     "reportType": "mutation",
     "name": "",
@@ -333,7 +333,7 @@
     }]
   },
   {
-    "identifier": "S-N501Y+E484K",
+    "identifier": "S-N501Y_S-E484K",
     "mutation_name": "S:N501Y + S:E484K",
     "reportType": "mutation",
     "url": "https://andersen-lab.github.io/hCoV19-sitrep/nelly_eek_current_report.html",
@@ -570,6 +570,91 @@
       "codon_num": 205,
       "alt_aa": "I"
     }]
+  },
+  {
+    "identifier": "B-1-427",
+    "mutation_name": "B.1.427",
+    "pangolin_lineage": "B.1.427",
+    "mutation_synonyms": ["CA VUI1"],
+    "searchTerms": ["B.1.427", "CAVUI1", "CA VUI1", "b1427", "cal.20C", "cal20c"],
+    "reportType": "lineage",
+    "variantType": "Variant of Interest",
+    "location_first_identified": "California (United States)",
+    "url": "https://andersen-lab.github.io/hCoV19-sitrep/b1429_current_report.html",
+    "name": "",
+    "description": "",
+    "journalName": "outbreak.info",
+    "datePublished": "2021-01-19",
+    "publicationType": "Report",
+    "author": [{
+      "@type": "Organization",
+      "name": "Outbreak.info"
+    }],
+    "mutations": [{
+        "mutation": "S:D614G",
+        "gene": "S",
+        "ref_aa": "D",
+        "alt_aa": "G",
+        "codon_num": 614,
+        "type": "substitution"
+      },
+      {
+        "mutation": "ORF1a:T265I",
+        "gene": "ORF1a",
+        "ref_aa": "T",
+        "alt_aa": "I",
+        "codon_num": 265,
+        "type": "substitution"
+      },
+      {
+        "mutation": "ORF1b:D1183Y",
+        "gene": "ORF1b",
+        "ref_aa": "D",
+        "alt_aa": "Y",
+        "codon_num": 1183,
+        "type": "substitution"
+      },
+      {
+        "mutation": "N:T205I",
+        "gene": "N",
+        "ref_aa": "T",
+        "alt_aa": "I",
+        "codon_num": 205,
+        "type": "substitution"
+      },
+      {
+        "mutation": "S:L452R",
+        "gene": "S",
+        "ref_aa": "L",
+        "alt_aa": "R",
+        "codon_num": 452,
+        "type": "substitution"
+      },
+      {
+        "mutation": "ORF1a:S3158T",
+        "gene": "ORF1a",
+        "ref_aa": "S",
+        "alt_aa": "T",
+        "codon_num": 3158,
+        "type": "substitution"
+      },
+      {
+        "mutation": "ORF1b:P976L",
+        "gene": "ORF1b",
+        "ref_aa": "P",
+        "alt_aa": "L",
+        "codon_num": 976,
+        "type": "substitution"
+      },
+      {
+        "mutation": "ORF3a:Q57H",
+        "gene": "ORF3a",
+        "ref_aa": "Q",
+        "alt_aa": "H",
+        "codon_num": 57,
+        "type": "substitution"
+      }
+    ]
   },
   {
     "identifier": "B-1-1-7",
