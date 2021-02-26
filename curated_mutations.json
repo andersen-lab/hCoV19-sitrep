@@ -1,5 +1,4 @@
 [{
-    "identifier": "P-1",
     "mutation_name": "P.1",
     "pangolin_lineage": "P.1",
     "nextstrain_clade": "20J/501Y.V3",
@@ -9,17 +8,11 @@
     "reportType": "lineage",
     "variantType": "Variant of Concern",
     "location_first_identified": "Brazil",
-    "location_first_identified_type": "country",
-    "url": "",
-    "name": "",
-    "description": "",
-    "journalName": "outbreak.info",
-    "datePublished": "2021-01-19",
-    "publicationType": "Report",
-    "author": [{
-      "@type": "Organization",
-      "name": "Outbreak.info"
-    }],
+    "reportQuery": {
+      "pango": "P.1",
+      "selected": "Brazil",
+      "selectedType": "country"
+    },
     "mutations": [{
         "type": "substitution",
         "is_synonymous": false,
@@ -925,11 +918,16 @@
   },
   {
     "mutation_name": "B.1.526 + S:E484K",
-    "added_mutations": "S:E484K",
     "pangolin_lineage": "B.1.526",
+    "reportQuery": {
+      "pango": "B.1.526",
+      "muts": ["S:E484K"],
+      "selected": "Brazil",
+      "selectedType": "country"
+    },
+    "reportType": "lineage + mutation",
     "variantType": "Variant of Interest",
-    "location_first_identified": "New York",
-    "location_first_identified_type": "division",
+    "location_first_identified": "New York (United States)",
     "mutations": [{
         "mutation": "ORF1b:Q1011H",
         "gene": "ORF1b",
