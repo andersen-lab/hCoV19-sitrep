@@ -219,7 +219,9 @@
     "mutation_name": "S:S13I + S:L452R",
     "reportType": "mutation",
     "reportQuery": {
-      "muts": ["S:S13I", "S:L452R"]
+      "muts": ["S:S13I", "S:L452R"],
+      "selected": "California",
+      "selectedType": "division"
     },
     "mutations": [{
         "type": "substitution",
