@@ -497,7 +497,7 @@
       "pango": "B.1.429",
       "country": ["United States"],
       "division": ["California"],
-      "selected": "California (United States)",
+      "selected": "California",
       "selectedType": "division"
     },
     "mutations": [{
