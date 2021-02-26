@@ -285,30 +285,6 @@
     }]
   },
   {
-    "identifier": "S-P681H",
-    "mutation_name": "S:P681H",
-    "reportType": "mutation",
-    "url": "https://andersen-lab.github.io/hCoV19-sitrep/s_p681h_current_report.html",
-    "name": "",
-    "description": "",
-    "journalName": "outbreak.info",
-    "datePublished": "2021-01-19",
-    "publicationType": "Report",
-    "author": [{
-      "@type": "Organization",
-      "name": "Outbreak.info"
-    }],
-    "mutations": [{
-      "type": "substitution",
-      "is_synonymous": false,
-      "mutation": "S:P681H",
-      "gene": "S",
-      "ref_aa": "P",
-      "codon_num": 681,
-      "alt_aa": "H"
-    }]
-  },
-  {
     "identifier": "S-E484K",
     "mutation_name": "S:E484K",
     "reportType": "mutation",
