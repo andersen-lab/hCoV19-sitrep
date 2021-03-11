@@ -10,10 +10,8 @@
     "location_first_identified": "Brazil",
     "reportQuery": {
       "pango": "P.1",
-      "selected": "Brazil",
-      "country": ["Brazil", "United States"],
-      "division": ["California"],
-      "selectedType": "country"
+      "selected": "BRA",
+      "loc": ["BRA", "USA", "USA_US-CA"]
     },
     "mutations": [{
         "type": "substitution",
@@ -220,8 +218,8 @@
     "reportType": "mutation",
     "reportQuery": {
       "muts": ["S:S13I", "S:L452R"],
-      "selected": "California",
-      "selectedType": "division"
+      "loc": ["USA_US-CA"],
+      "selected": "USA_US-CA"
     },
     "mutations": [{
         "type": "substitution",
@@ -247,7 +245,9 @@
     "mutation_name": "S:L452R",
     "reportType": "mutation",
     "reportQuery": {
-      "muts": ["S:L452R"]
+      "muts": ["S:L452R"],
+      "loc": ["USA_US-CA"],
+      "selected": "USA_US-CA"
     },
     "mutations": [{
       "type": "substitution",
@@ -312,10 +312,8 @@
     "location_first_identified": "South Africa",
     "reportQuery": {
       "pango": "B.1.351",
-      "selected": "South Africa",
-      "country": ["South Africa", "United States"],
-      "division": ["California"],
-      "selectedType": "country"
+      "selected": "ZAF",
+      "loc": ["ZAF", "USA", "USA_US-CA"]
     },
     "mutations": [{
         "type": "substitution",
@@ -400,10 +398,8 @@
     "location_first_identified": "New York",
     "reportQuery": {
       "pango": "B.1.526",
-      "country": ["United States"],
-      "division": ["New York"],
-      "selected": "New York",
-      "selectedType": "division"
+      "loc": ["USA", "USA_US-NY"],
+      "selected": "USA_US-NY"
     },
     "mutations": [{
         "mutation": "ORF1b:Q1011H",
@@ -497,10 +493,8 @@
     "location_first_identified": "California (United States)",
     "reportQuery": {
       "pango": "B.1.429",
-      "country": ["United States"],
-      "division": ["California"],
-      "selected": "California",
-      "selectedType": "division"
+      "loc": ["USA", "USA_US-CA"],
+      "selected": "USA_US-CA"
     },
     "mutations": [{
       "mutation": "ORF1a:T265I",
@@ -604,10 +598,8 @@
     "location_first_identified": "California",
     "reportQuery": {
       "pango": "B.1.427",
-      "country": ["United States"],
-      "division": ["California"],
-      "selected": "California",
-      "selectedType": "division"
+      "loc": ["USA", "USA_US-CA"],
+      "selected": "USA_US-CA"
     },
     "mutations": [{
         "mutation": "S:D614G",
@@ -688,10 +680,8 @@
     "disclaimer": "B.1.1.7 genomes in the US were identified by S-gene target failures (SGTF) in community-based diagnostic PCR testing. Since this is not an unbiased approach, it does not indicate the true prevalence of the B117 lineage.  <a class='text-light text-underline ml-3' href='https://outbreak.info/situation-reports/caveats'>How to interpret this report</a>",
     "reportQuery": {
       "pango": "B.1.1.7",
-      "country": ["United Kingdom", "United States"],
-      "division": ["California"],
-      "selected": "United Kingdom",
-      "selectedType": "country"
+      "loc": ["GBR", "USA", "USA_US-CA"],
+      "selected": "GBR"
     },
     "mutations": [{
       "mutation": "ORF1a:T1001I",
@@ -866,10 +856,8 @@
     "reportQuery": {
       "pango": "B.1.526",
       "muts": ["S:E484K"],
-      "country": ["United States"],
-      "division": ["New York"],
-      "selected": "New York",
-      "selectedType": "division"
+      "country": ["USA", "USA_US-NY"],
+      "selected": "USA_US-NY"
     },
     "reportType": "Lineage + Mutation",
     "variantType": "Variant of Interest",
@@ -972,10 +960,8 @@
     "reportQuery": {
       "pango": "B.1.526",
       "muts": ["S:S477N"],
-      "country": ["United States"],
-      "division": ["New York"],
-      "selected": "New York",
-      "selectedType": "division"
+      "loc": ["USA", "USA_US-NY"],
+      "selected": "USA_US-NY"
     },
     "mutations": [{
         "mutation": "ORF1b:Q1011H",
@@ -1073,10 +1059,8 @@
     "reportQuery": {
       "pango": "B.1.1.7",
       "muts": ["S:E484K"],
-      "country": ["United Kingdom", "United States"],
-      "division": ["California"],
-      "selected": "United Kingdom",
-      "selectedType": "country"
+      "loc": ["GBR", "USA", "USA_US-CA"],
+      "selected": "GBR"
     },
     "nextstrain_clade": "20I/501Y.V1",
     "mutation_synonyms": ["Variant of Concern 202012/01", "VOC-202012/01", "20B/501Y.V1", "20I/501Y.V1"],
